@@ -14,8 +14,8 @@
 
  */
 class WildberriesApiSeller
- */
-class WbApiClient
+
+
 {
     /**
      * Константы уровня вывода отладочной информации
